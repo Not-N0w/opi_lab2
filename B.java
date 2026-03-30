@@ -31,4 +31,8 @@ public class B implements H, J {
     public void aa() {
         return;
     }
+
+    public String nn() {
+        "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
+    }
 }

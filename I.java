@@ -15,4 +15,8 @@ public class I extends B {
     public double ad() {
         return 11.09;
     }
+
+    public float ff() {
+        return 0;
+    }
 }
