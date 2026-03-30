@@ -43,4 +43,8 @@ public class B implements H, J {
     public long ac() {
         return 333;
     }
+
+    public Object rr() {
+        return null;
+    }
 }
