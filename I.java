@@ -19,4 +19,8 @@ public class I extends B {
     public float ff() {
         return 0;
     }
+
+    public java.util.Set<Integer> ll() {
+        return new java.util.HashSet<Integer>;
+    }
 }
