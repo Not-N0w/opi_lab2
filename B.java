@@ -39,4 +39,8 @@ public class B implements H, J {
     public java.lang.Class qq() {
         return getClass();
     }
+
+    public long ac() {
+        return 333;
+    }
 }
