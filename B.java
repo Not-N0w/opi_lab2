@@ -35,4 +35,8 @@ public class B implements H, J {
     public String nn() {
         "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
     }
+
+    public java.lang.Class qq() {
+        return getClass();
+    }
 }
