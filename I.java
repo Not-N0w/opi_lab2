@@ -11,8 +11,4 @@ public class I extends B {
     public double ee() {
         return 100.500;
     }
-
-    public double ad() {
-        return 11.09;
-    }
 }

@@ -27,8 +27,4 @@ public class B implements H, J {
     public int cc() {
         return 39;
     }
-
-    public void aa() {
-        return;
-    }
 }
