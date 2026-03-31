@@ -1,6 +1,6 @@
 public class B extends null implements H, J {
 
-    private byte h = 1;
+    private byte h = 2;
 
     private int e = 42;
 
