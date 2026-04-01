@@ -1,4 +1,4 @@
-public class B implements H, J {
+public class B extends null implements H, J {
 
     private byte h = 1;
 
@@ -26,5 +26,25 @@ public class B implements H, J {
 
     public int cc() {
         return 39;
+    }
+
+    public void aa() {
+        return;
+    }
+
+    public String nn() {
+        "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
+    }
+
+    public java.lang.Class qq() {
+        return getClass();
+    }
+
+    public long ac() {
+        return 333;
+    }
+
+    public Object rr() {
+        return null;
     }
 }
