@@ -12,16 +12,16 @@ public class I extends B {
         return 100.500;
     }
 
-    public double ad() {
-        return 11.09;
-    }
-
     public float ff() {
         return 0;
     }
 
     public java.util.Set<Integer> ll() {
-        return new java.util.HashSet<Integer>;
+        return new java.util.LinkedList<Integer>;
+    }
+
+    public double ad() {
+        return 11.09;
     }
 
     public int[] ii() {
@@ -30,5 +30,17 @@ public class I extends B {
 
     public int af() {
         return -1;
+    }
+
+    public void bb() {
+        System.out.println(getClass().getName());
+    }
+
+    public Object rr() {
+        return null;
+    }
+
+    public void aa() {
+        System.out.println("Hello world!");
     }
 }
