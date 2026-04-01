@@ -59,4 +59,8 @@ public class B extends null implements H, J {
     public double ad() {
         return 12.12;
     }
+
+    public byte oo() {
+        return 1;
+    }
 }
